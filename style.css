@@ -1,0 +1,19 @@
+/* header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000; 
+} */
+.normal-text {
+    color: white; 
+    font-weight: bold;
+}
+
+.orange-bold-text {
+    color: orange;
+    font-weight: bold;
+}
+.left {
+    text-align: left;
+}
