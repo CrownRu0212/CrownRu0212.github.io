@@ -17,3 +17,11 @@
 .left {
     text-align: left;
 }
+.resized-image {
+    width: 500px; 
+    height: auto;
+}
+
+.card-shadow {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add shadow effect */
+}
